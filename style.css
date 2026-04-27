@@ -140,4 +140,11 @@ body {
   .botao:last-child {
     border-radius: 0 40px 0 0;
   }
+}.ativo {
+  background-color: var(--botao-ativo);
+  border-bottom: 4px solid var(--verde);
 }
+<button class="botao ativo">Correr uma meia maratona</button>
+<button class="botao">Ser fluente em igles e espanhol</button>
+<button class="botao">Meter o shape</button>
+<button class="botao">Passar na faculdade</button>
