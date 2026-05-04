@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 :root {
-    --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
-    --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --cor-de-fundo: #84192d;
+    --verde: #ffdd00;
+    --branco: #ffffff;
+    --botao-ativo: #e6ff03;
+    --botao-inativo: rgba(192, 44, 255, 0.5);
+    --texto-fundo: rgb(120, 120, 120);
 }
 
 body {
@@ -144,7 +144,4 @@ body {
   background-color: var(--botao-ativo);
   border-bottom: 4px solid var(--verde);
 }
-<button class="botao ativo">Correr uma meia maratona</button>
-<button class="botao">Ser fluente em igles e espanhol</button>
-<button class="botao">Meter o shape</button>
-<button class="botao">Passar na faculdade</button>
+
